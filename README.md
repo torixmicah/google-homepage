@@ -1,0 +1,1 @@
+This is the first Odin Project project covering basics of CSS and HTML
