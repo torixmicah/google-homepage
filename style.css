@@ -1,0 +1,86 @@
+#main-content {
+    position: absolute;
+    top: 28%;
+    left: 41%;
+}
+#main-content input {
+    border-style: solid;
+    border-width: 1px;
+    width: 500px;
+    padding-bottom: 13px;
+    position: absolute;
+    top: 120%;
+    left: -46%;
+}
+#main-content .google_search {
+    position: absolute;
+    top: 166%;
+    left: 12%;
+}
+#main-content .feeling_lucky {
+    position: absolute;
+    top: 166%;
+    left: 60%;
+}
+#main-content 
+#top-nav-bar-left {
+    position: absolute;
+    top: 0;
+    left: 9px;
+}
+#top-nav-bar-right {
+    position: absolute;
+    top: 0;
+    right: 24px;
+}
+#top-nav-bar-left ul {
+    margin: 0;
+    padding: 0;
+}
+
+#top-nav-bar-left li {
+    display: inline;
+}
+
+#top-nav-bar-left a {
+    font-size: 83%;    
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a0a0a0;
+    text-decoration: none;
+}
+#top-nav-bar-right ul {
+    margin: 0;
+    padding: 0;
+}
+
+#top-nav-bar-right li {
+    display: inline;
+}
+
+#top-nav-bar-right a {
+    font-size: 83%;    
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a0a0a0;
+    text-decoration: none;
+}
+#top-nav-bar-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 9px;
+}
+#top-nav-bar-bottom ul {
+    margin: 0;
+    padding: 0;
+}
+
+#top-nav-bar-bottom li {
+    display: inline;
+}
+
+#top-nav-bar-bottom a {
+    font-size: 83%;    
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a0a0a0;
+    text-decoration: none;
+}
+
